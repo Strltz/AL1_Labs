@@ -1,0 +1,2 @@
+C:\Users\kw1nt00\Desktop\Учёба BMSTU\Алгоритмические языки\C++\Lab1_2\x64\Debug\Lab1_2.exe
+C:\Users\kw1nt00\Desktop\Учёба BMSTU\Алгоритмические языки\C++\Лабораторные\Лабораторная 1\Lab1_2\x64\Debug\Lab1_2.exe
